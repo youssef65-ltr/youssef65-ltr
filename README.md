@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm youssef a full stack developer from morocco.
+
+I'm a motivated learner who have a strong interest in web development.
+
+If an idea pops into my head , I'll do my best to build it into reality.
+
+my best Technical stack is :
+    Python
+    Html
+    Css
+    Javascript
+    React
+    PHP
+    MySQL
+    MongoDB
+
+currently I'm learning React and more concepts of fetching APIs and data management.
+
+Fun fact :
+  I'm a body builder too
+  I love cooking and cats
