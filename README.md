@@ -29,6 +29,8 @@ If an idea pops into my head , I'll do my best to build it into reality.
    * PHP
    * MySQL
    * MongoDB
+   * laravel
+   * express.js
 
 currently I'm learning React and more concepts of fetching APIs and data management.
 
