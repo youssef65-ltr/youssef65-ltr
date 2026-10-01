@@ -15,24 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm youssef a full stack developer from morocco.
-
 I'm a motivated learner who have a strong interest in web development.
-
 If an idea pops into my head , I'll do my best to build it into reality.
-
-### my best Technical stack is :
-   * Python
-   * Html
-   * Css
-   * Javascript
-   * React
-   * PHP
-   * MySQL
-   * MongoDB
-   * laravel
-   * express.js
-
-#### Fun fact :
- * I have a cat 
- * I'm a body builder too
- * I love cooking
